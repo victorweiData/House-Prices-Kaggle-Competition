@@ -66,7 +66,4 @@ Despite experimenting with linear models (Ridge, Lasso, ElasticNet), kernel meth
 ├── artifacts/           # OOF predictions, submissions, feature importances
 ├── docs/                # Project reports (EDA, FE, Modeling)
 └── README.md            # This file
-```# House-Prices-Kaggle-Competition
-# House-Prices-Kaggle-Competition
-# House-Prices-Kaggle-Competition
-# House-Prices-Kaggle-Competition
+```
