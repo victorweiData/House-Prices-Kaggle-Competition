@@ -1,0 +1,1864 @@
+[
+  {
+    "number": 0,
+    "state": "1",
+    "value": 0.12212814743430322,
+    "params": {
+      "learning_rate": 0.030710573677773714,
+      "num_leaves": 223,
+      "max_depth": 10,
+      "min_data_in_leaf": 59,
+      "feature_fraction": 0.8832290311184182,
+      "bagging_fraction": 0.608233797718321,
+      "bagging_freq": 0,
+      "lambda_l1": 0.0009905522585102221,
+      "lambda_l2": 0.001010482366270552,
+      "min_gain_to_split": 0.0016480446427978971,
+      "min_sum_hessian_in_leaf": 0.01120760621186057,
+      "cat_smooth": 7.309539835912911
+    }
+  },
+  {
+    "number": 1,
+    "state": "1",
+    "value": 0.17493140386999673,
+    "params": {
+      "learning_rate": 0.023927528765580634,
+      "num_leaves": 86,
+      "max_depth": 9,
+      "min_data_in_leaf": 46,
+      "feature_fraction": 0.836965827544817,
+      "bagging_fraction": 0.6185801650879991,
+      "bagging_freq": 0,
+      "lambda_l1": 15.745669970658131,
+      "lambda_l2": 19.448393480824098,
+      "min_gain_to_split": 0.17123375973163973,
+      "min_sum_hessian_in_leaf": 0.0040665633135147945,
+      "cat_smooth": 1.5679933916723008
+    }
+  },
+  {
+    "number": 2,
+    "state": "1",
+    "value": 0.16437645515738927,
+    "params": {
+      "learning_rate": 0.07766184280392888,
+      "num_leaves": 53,
+      "max_depth": 8,
+      "min_data_in_leaf": 25,
+      "feature_fraction": 0.8080272084711243,
+      "bagging_fraction": 0.8186841117373118,
+      "bagging_freq": 1,
+      "lambda_l1": 13.987806685255524,
+      "lambda_l2": 7.963021720346118,
+      "min_gain_to_split": 0.024637685958997457,
+      "min_sum_hessian_in_leaf": 0.06978281265126038,
+      "cat_smooth": 1.5030900645056817
+    }
+  },
+  {
+    "number": 3,
+    "state": "1",
+    "value": 0.12999663171946035,
+    "params": {
+      "learning_rate": 0.017987863473362915,
+      "num_leaves": 18,
+      "max_depth": 8,
+      "min_data_in_leaf": 50,
+      "feature_fraction": 0.6563696899899051,
+      "bagging_fraction": 0.9208787923016158,
+      "bagging_freq": 1,
+      "lambda_l1": 0.0012257160782854595,
+      "lambda_l2": 0.00010721247086563709,
+      "min_gain_to_split": 0.18274508859816008,
+      "min_sum_hessian_in_leaf": 0.025924756604751596,
+      "cat_smooth": 28.70875348195468
+    }
+  },
+  {
+    "number": 4,
+    "state": "1",
+    "value": 0.1252753080622866,
+    "params": {
+      "learning_rate": 0.10079659367870726,
+      "num_leaves": 19,
+      "max_depth": 7,
+      "min_data_in_leaf": 25,
+      "feature_fraction": 0.7300733288106988,
+      "bagging_fraction": 0.8918424713352257,
+      "bagging_freq": 1,
+      "lambda_l1": 0.0004518894334993287,
+      "lambda_l2": 0.8063585289928842,
+      "min_gain_to_split": 0.11044350847124683,
+      "min_sum_hessian_in_leaf": 0.013260331922696546,
+      "cat_smooth": 34.82846706526883
+    }
+  },
+  {
+    "number": 5,
+    "state": "1",
+    "value": 0.11918183270382272,
+    "params": {
+      "learning_rate": 0.04389781284588203,
+      "num_leaves": 67,
+      "max_depth": 9,
+      "min_data_in_leaf": 45,
+      "feature_fraction": 0.9630265895704372,
+      "bagging_fraction": 0.69971689165955,
+      "bagging_freq": 1,
+      "lambda_l1": 0.0002640148166024525,
+      "lambda_l2": 0.003863703944897301,
+      "min_gain_to_split": 0.00044145368764944825,
+      "min_sum_hessian_in_leaf": 0.0723427984566542,
+      "cat_smooth": 41.32765459466364
+    }
+  },
+  {
+    "number": 6,
+    "state": "1",
+    "value": 0.1242202574343813,
+    "params": {
+      "learning_rate": 0.06669254439997734,
+      "num_leaves": 179,
+      "max_depth": 10,
+      "min_data_in_leaf": 25,
+      "feature_fraction": 0.6440207698110707,
+      "bagging_fraction": 0.6911740650167767,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00010916355286762791,
+      "lambda_l2": 0.06272272336087874,
+      "min_gain_to_split": 0.004673518999562749,
+      "min_sum_hessian_in_leaf": 0.0027810936979265548,
+      "cat_smooth": 1.7367237151593158
+    }
+  },
+  {
+    "number": 7,
+    "state": "1",
+    "value": 0.12009392892790989,
+    "params": {
+      "learning_rate": 0.027494603746278566,
+      "num_leaves": 219,
+      "max_depth": 9,
+      "min_data_in_leaf": 20,
+      "feature_fraction": 0.7988994023569541,
+      "bagging_fraction": 0.7203513239267079,
+      "bagging_freq": 2,
+      "lambda_l1": 0.05665444147432237,
+      "lambda_l2": 0.00019140591853716271,
+      "min_gain_to_split": 0.0013019246714361576,
+      "min_sum_hessian_in_leaf": 0.06554382343546285,
+      "cat_smooth": 3.0138649046798007
+    }
+  },
+  {
+    "number": 8,
+    "state": "1",
+    "value": 0.12046458858586315,
+    "params": {
+      "learning_rate": 0.015435211146627065,
+      "num_leaves": 61,
+      "max_depth": -1,
+      "min_data_in_leaf": 29,
+      "feature_fraction": 0.8529223322374317,
+      "bagging_fraction": 0.8534118843043579,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00571414572716007,
+      "lambda_l2": 0.0010509559122853528,
+      "min_gain_to_split": 0.00014557961490251997,
+      "min_sum_hessian_in_leaf": 0.01519798062003422,
+      "cat_smooth": 22.65315641394886
+    }
+  },
+  {
+    "number": 9,
+    "state": "1",
+    "value": 0.12579321440198352,
+    "params": {
+      "learning_rate": 0.010509480845860123,
+      "num_leaves": 65,
+      "max_depth": 10,
+      "min_data_in_leaf": 14,
+      "feature_fraction": 0.7364265404201034,
+      "bagging_fraction": 0.6453894084962356,
+      "bagging_freq": 0,
+      "lambda_l1": 0.4119197794692544,
+      "lambda_l2": 2.9924374589681637,
+      "min_gain_to_split": 0.01662659225403187,
+      "min_sum_hessian_in_leaf": 0.011463075602214,
+      "cat_smooth": 3.045822438589406
+    }
+  },
+  {
+    "number": 10,
+    "state": "2",
+    "value": 0.12980918098172747,
+    "params": {
+      "learning_rate": 0.1696879465047448,
+      "num_leaves": 115,
+      "max_depth": 6,
+      "min_data_in_leaf": 137,
+      "feature_fraction": 0.9935012086604404,
+      "bagging_fraction": 0.7521171841007243,
+      "bagging_freq": 1,
+      "lambda_l1": 0.014109514714905267,
+      "lambda_l2": 0.02697815414960291,
+      "min_gain_to_split": 0.00011200687440843911,
+      "min_sum_hessian_in_leaf": 0.0011401357990728671,
+      "cat_smooth": 77.91470666172782
+    }
+  },
+  {
+    "number": 11,
+    "state": "1",
+    "value": 0.12084489198598596,
+    "params": {
+      "learning_rate": 0.04280457277206957,
+      "num_leaves": 35,
+      "max_depth": 9,
+      "min_data_in_leaf": 10,
+      "feature_fraction": 0.9460548969114542,
+      "bagging_fraction": 0.7398862407933877,
+      "bagging_freq": 2,
+      "lambda_l1": 0.20259150305183793,
+      "lambda_l2": 0.001804454440770391,
+      "min_gain_to_split": 0.000898742188315455,
+      "min_sum_hessian_in_leaf": 0.09757546748922542,
+      "cat_smooth": 7.357746275264888
+    }
+  },
+  {
+    "number": 12,
+    "state": "1",
+    "value": 0.12862281305221016,
+    "params": {
+      "learning_rate": 0.0418625360770142,
+      "num_leaves": 134,
+      "max_depth": 9,
+      "min_data_in_leaf": 99,
+      "feature_fraction": 0.904479355034512,
+      "bagging_fraction": 0.9792959907905215,
+      "bagging_freq": 2,
+      "lambda_l1": 0.07580931437304773,
+      "lambda_l2": 0.00013801862010849765,
+      "min_gain_to_split": 0.0008092491084291773,
+      "min_sum_hessian_in_leaf": 0.041544483466566064,
+      "cat_smooth": 4.169408564985971
+    }
+  },
+  {
+    "number": 13,
+    "state": "1",
+    "value": 0.12569564873040157,
+    "params": {
+      "learning_rate": 0.029172996457774356,
+      "num_leaves": 36,
+      "max_depth": 9,
+      "min_data_in_leaf": 81,
+      "feature_fraction": 0.7469515548880064,
+      "bagging_fraction": 0.7169903999768299,
+      "bagging_freq": 2,
+      "lambda_l1": 1.3087765628591592,
+      "lambda_l2": 0.010639382168803784,
+      "min_gain_to_split": 0.0003643015363465138,
+      "min_sum_hessian_in_leaf": 0.03743309561243859,
+      "cat_smooth": 86.80399316661718
+    }
+  },
+  {
+    "number": 14,
+    "state": "1",
+    "value": 0.12097796201610192,
+    "params": {
+      "learning_rate": 0.058564717079030285,
+      "num_leaves": 224,
+      "max_depth": 9,
+      "min_data_in_leaf": 16,
+      "feature_fraction": 0.9994732365489187,
+      "bagging_fraction": 0.7698901219327227,
+      "bagging_freq": 1,
+      "lambda_l1": 0.013364897122809088,
+      "lambda_l2": 0.004968067380640171,
+      "min_gain_to_split": 0.004639332748380132,
+      "min_sum_hessian_in_leaf": 0.054785386841273744,
+      "cat_smooth": 14.252739508200001
+    }
+  },
+  {
+    "number": 15,
+    "state": "1",
+    "value": 0.12461278178581044,
+    "params": {
+      "learning_rate": 0.13273210662720428,
+      "num_leaves": 136,
+      "max_depth": 6,
+      "min_data_in_leaf": 34,
+      "feature_fraction": 0.7747981352314054,
+      "bagging_fraction": 0.6704782909716438,
+      "bagging_freq": 1,
+      "lambda_l1": 0.004801827852783749,
+      "lambda_l2": 0.09081674125983867,
+      "min_gain_to_split": 0.0025083761744028087,
+      "min_sum_hessian_in_leaf": 0.027153791228093586,
+      "cat_smooth": 3.519771040171357
+    }
+  },
+  {
+    "number": 16,
+    "state": "2",
+    "value": 0.16876449886256017,
+    "params": {
+      "learning_rate": 0.035866566285859575,
+      "num_leaves": 32,
+      "max_depth": 7,
+      "min_data_in_leaf": 17,
+      "feature_fraction": 0.6922613924767655,
+      "bagging_fraction": 0.8005828061689467,
+      "bagging_freq": 2,
+      "lambda_l1": 1.582502272582638,
+      "lambda_l2": 0.00023165174790161635,
+      "min_gain_to_split": 0.7117327515534674,
+      "min_sum_hessian_in_leaf": 0.0929953563403156,
+      "cat_smooth": 48.04470791940723
+    }
+  },
+  {
+    "number": 17,
+    "state": "3",
+    "value": null,
+    "params": {
+      "learning_rate": 0.020140199561263932,
+      "num_leaves": 95,
+      "max_depth": -1,
+      "min_data_in_leaf": 65,
+      "feature_fraction": 0.916274215635627,
+      "bagging_fraction": 0.7134246392678391,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00010322397711322998,
+      "lambda_l2": 0.0006405725482536438,
+      "min_gain_to_split": 0.0003359418259975414,
+      "min_sum_hessian_in_leaf": 0.005991445957805981,
+      "cat_smooth": 12.55518053607056
+    }
+  },
+  {
+    "number": 18,
+    "state": "1",
+    "value": 0.12239432986151086,
+    "params": {
+      "learning_rate": 0.019585650609757765,
+      "num_leaves": 86,
+      "max_depth": -1,
+      "min_data_in_leaf": 67,
+      "feature_fraction": 0.9138360079641086,
+      "bagging_fraction": 0.6899430123056195,
+      "bagging_freq": 2,
+      "lambda_l1": 0.041138029353966446,
+      "lambda_l2": 0.2713424460940153,
+      "min_gain_to_split": 0.0003178424415747632,
+      "min_sum_hessian_in_leaf": 0.005868847428007645,
+      "cat_smooth": 13.093310334961421
+    }
+  },
+  {
+    "number": 19,
+    "state": "1",
+    "value": 0.12253174053334723,
+    "params": {
+      "learning_rate": 0.05555486902623156,
+      "num_leaves": 27,
+      "max_depth": 9,
+      "min_data_in_leaf": 37,
+      "feature_fraction": 0.8035571312599016,
+      "bagging_fraction": 0.7728808399595469,
+      "bagging_freq": 1,
+      "lambda_l1": 0.00016975072766978533,
+      "lambda_l2": 0.000537425273214046,
+      "min_gain_to_split": 0.0002936472339654597,
+      "min_sum_hessian_in_leaf": 0.020959030704284683,
+      "cat_smooth": 5.688379606678078
+    }
+  },
+  {
+    "number": 20,
+    "state": "2",
+    "value": 0.12961383577165653,
+    "params": {
+      "learning_rate": 0.012407435637325904,
+      "num_leaves": 49,
+      "max_depth": 9,
+      "min_data_in_leaf": 198,
+      "feature_fraction": 0.9387984493554663,
+      "bagging_fraction": 0.7212060967256149,
+      "bagging_freq": 0,
+      "lambda_l1": 0.05069358381311366,
+      "lambda_l2": 0.0036788356907659072,
+      "min_gain_to_split": 0.006867337973197404,
+      "min_sum_hessian_in_leaf": 0.05271506388056996,
+      "cat_smooth": 19.46916700756772
+    }
+  },
+  {
+    "number": 21,
+    "state": "1",
+    "value": 0.12684166691618604,
+    "params": {
+      "learning_rate": 0.024072499689880223,
+      "num_leaves": 86,
+      "max_depth": 9,
+      "min_data_in_leaf": 10,
+      "feature_fraction": 0.8524337374155861,
+      "bagging_fraction": 0.6586013312320255,
+      "bagging_freq": 2,
+      "lambda_l1": 2.121963274489985,
+      "lambda_l2": 0.010639382168803784,
+      "min_gain_to_split": 0.0007921071835390418,
+      "min_sum_hessian_in_leaf": 0.007003291122199623,
+      "cat_smooth": 1.028921784350538
+    }
+  },
+  {
+    "number": 22,
+    "state": "1",
+    "value": 0.12056961716881878,
+    "params": {
+      "learning_rate": 0.0146657163171496,
+      "num_leaves": 57,
+      "max_depth": -1,
+      "min_data_in_leaf": 33,
+      "feature_fraction": 0.8561912197216659,
+      "bagging_fraction": 0.8406632072442115,
+      "bagging_freq": 2,
+      "lambda_l1": 0.003496191365718034,
+      "lambda_l2": 0.0006381408523906917,
+      "min_gain_to_split": 0.0001021676642789283,
+      "min_sum_hessian_in_leaf": 0.01814083745789387,
+      "cat_smooth": 22.845293388619503
+    }
+  },
+  {
+    "number": 23,
+    "state": "1",
+    "value": 0.11935538663548999,
+    "params": {
+      "learning_rate": 0.015055827907359464,
+      "num_leaves": 67,
+      "max_depth": -1,
+      "min_data_in_leaf": 20,
+      "feature_fraction": 0.6059581366829155,
+      "bagging_fraction": 0.8575285513628135,
+      "bagging_freq": 2,
+      "lambda_l1": 0.004633321662108612,
+      "lambda_l2": 0.00041569118331204256,
+      "min_gain_to_split": 0.00017249545338418747,
+      "min_sum_hessian_in_leaf": 0.036298074991317264,
+      "cat_smooth": 51.50863624069651
+    }
+  },
+  {
+    "number": 24,
+    "state": "1",
+    "value": 0.11898554219130046,
+    "params": {
+      "learning_rate": 0.024100625338182146,
+      "num_leaves": 101,
+      "max_depth": -1,
+      "min_data_in_leaf": 16,
+      "feature_fraction": 0.6107259035118323,
+      "bagging_fraction": 0.8856355561853856,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00040762369533995583,
+      "lambda_l2": 0.0002432126642559246,
+      "min_gain_to_split": 0.0004560197302145991,
+      "min_sum_hessian_in_leaf": 0.03621232459824881,
+      "cat_smooth": 53.19194736951738
+    }
+  },
+  {
+    "number": 25,
+    "state": "1",
+    "value": 0.12035000104856888,
+    "params": {
+      "learning_rate": 0.01922961826024519,
+      "num_leaves": 74,
+      "max_depth": -1,
+      "min_data_in_leaf": 13,
+      "feature_fraction": 0.6065321907962403,
+      "bagging_fraction": 0.8957346783938902,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00045824328347711445,
+      "lambda_l2": 0.0027631167816224733,
+      "min_gain_to_split": 0.0003965664329523343,
+      "min_sum_hessian_in_leaf": 0.03440731641389853,
+      "cat_smooth": 54.12316455859485
+    }
+  },
+  {
+    "number": 26,
+    "state": "1",
+    "value": 0.11974292721509383,
+    "params": {
+      "learning_rate": 0.010763487321756969,
+      "num_leaves": 111,
+      "max_depth": -1,
+      "min_data_in_leaf": 20,
+      "feature_fraction": 0.6150226989958324,
+      "bagging_fraction": 0.9508096412230285,
+      "bagging_freq": 1,
+      "lambda_l1": 0.0014937735853274299,
+      "lambda_l2": 0.0003959951842514486,
+      "min_gain_to_split": 0.0001994795267868199,
+      "min_sum_hessian_in_leaf": 0.04549011708849914,
+      "cat_smooth": 49.01194541133252
+    }
+  },
+  {
+    "number": 27,
+    "state": "1",
+    "value": 0.11953393569433886,
+    "params": {
+      "learning_rate": 0.03812993133988584,
+      "num_leaves": 43,
+      "max_depth": -1,
+      "min_data_in_leaf": 12,
+      "feature_fraction": 0.6837635564003492,
+      "bagging_fraction": 0.8624813632515789,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00031704852824288504,
+      "lambda_l2": 0.010132415510808134,
+      "min_gain_to_split": 0.0005954628167071792,
+      "min_sum_hessian_in_leaf": 0.029038643257122913,
+      "cat_smooth": 97.41293959465145
+    }
+  },
+  {
+    "number": 28,
+    "state": "1",
+    "value": 0.1189537747522174,
+    "params": {
+      "learning_rate": 0.022932158701588698,
+      "num_leaves": 105,
+      "max_depth": -1,
+      "min_data_in_leaf": 20,
+      "feature_fraction": 0.6358352703602609,
+      "bagging_fraction": 0.8826164186595434,
+      "bagging_freq": 2,
+      "lambda_l1": 0.002711869582051096,
+      "lambda_l2": 0.0016712157128923365,
+      "min_gain_to_split": 0.002500338923009241,
+      "min_sum_hessian_in_leaf": 0.07030703275360176,
+      "cat_smooth": 61.289211872258676
+    }
+  },
+  {
+    "number": 29,
+    "state": "1",
+    "value": 0.12290914709715779,
+    "params": {
+      "learning_rate": 0.05307989152358665,
+      "num_leaves": 160,
+      "max_depth": -1,
+      "min_data_in_leaf": 40,
+      "feature_fraction": 0.6438348620122024,
+      "bagging_fraction": 0.9369104879181318,
+      "bagging_freq": 0,
+      "lambda_l1": 0.00024832687706266815,
+      "lambda_l2": 0.0020667705876735993,
+      "min_gain_to_split": 0.00286436275679414,
+      "min_sum_hessian_in_leaf": 0.07498917296773153,
+      "cat_smooth": 34.37883019000415
+    }
+  },
+  {
+    "number": 30,
+    "state": "1",
+    "value": 0.12016518950952348,
+    "params": {
+      "learning_rate": 0.03316782953778394,
+      "num_leaves": 100,
+      "max_depth": 6,
+      "min_data_in_leaf": 60,
+      "feature_fraction": 0.6907939095057634,
+      "bagging_fraction": 0.9963910655147282,
+      "bagging_freq": 1,
+      "lambda_l1": 0.0008452573975777902,
+      "lambda_l2": 0.0010321423596182232,
+      "min_gain_to_split": 0.0017782223138169701,
+      "min_sum_hessian_in_leaf": 0.07224346455229812,
+      "cat_smooth": 62.387615798475885
+    }
+  },
+  {
+    "number": 31,
+    "state": "1",
+    "value": 0.12396191314166286,
+    "params": {
+      "learning_rate": 0.022253402332072902,
+      "num_leaves": 142,
+      "max_depth": 8,
+      "min_data_in_leaf": 51,
+      "feature_fraction": 0.6655055478191736,
+      "bagging_fraction": 0.9053276080721624,
+      "bagging_freq": 0,
+      "lambda_l1": 0.0020425610818266345,
+      "lambda_l2": 0.018616150993583373,
+      "min_gain_to_split": 0.013015611177462711,
+      "min_sum_hessian_in_leaf": 0.008207639409150902,
+      "cat_smooth": 36.36153921038347
+    }
+  },
+  {
+    "number": 32,
+    "state": "1",
+    "value": 0.1191573302955925,
+    "params": {
+      "learning_rate": 0.015339222991541878,
+      "num_leaves": 70,
+      "max_depth": -1,
+      "min_data_in_leaf": 20,
+      "feature_fraction": 0.6026970820250258,
+      "bagging_fraction": 0.8760407030276397,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00938135603215177,
+      "lambda_l2": 0.000393820234033651,
+      "min_gain_to_split": 0.00019504729022626514,
+      "min_sum_hessian_in_leaf": 0.05100625012298967,
+      "cat_smooth": 66.9154464584137
+    }
+  },
+  {
+    "number": 33,
+    "state": "1",
+    "value": 0.11824089152969379,
+    "params": {
+      "learning_rate": 0.026658973065648302,
+      "num_leaves": 80,
+      "max_depth": -1,
+      "min_data_in_leaf": 17,
+      "feature_fraction": 0.6294216787611339,
+      "bagging_fraction": 0.820637578903432,
+      "bagging_freq": 2,
+      "lambda_l1": 0.01480838596003751,
+      "lambda_l2": 0.0008637852991038634,
+      "min_gain_to_split": 0.0005632525738191247,
+      "min_sum_hessian_in_leaf": 0.054261950542184904,
+      "cat_smooth": 70.53640595478171
+    }
+  },
+  {
+    "number": 34,
+    "state": "1",
+    "value": 0.11793003930032726,
+    "params": {
+      "learning_rate": 0.025640985532570146,
+      "num_leaves": 100,
+      "max_depth": -1,
+      "min_data_in_leaf": 17,
+      "feature_fraction": 0.6282808258013969,
+      "bagging_fraction": 0.8195762764429995,
+      "bagging_freq": 2,
+      "lambda_l1": 0.015688820334854883,
+      "lambda_l2": 0.00025008735761846817,
+      "min_gain_to_split": 0.0016559522037195963,
+      "min_sum_hessian_in_leaf": 0.05265220366880406,
+      "cat_smooth": 72.4142499250788
+    }
+  },
+  {
+    "number": 35,
+    "state": "1",
+    "value": 0.11901205224444567,
+    "params": {
+      "learning_rate": 0.025930908936913806,
+      "num_leaves": 98,
+      "max_depth": -1,
+      "min_data_in_leaf": 16,
+      "feature_fraction": 0.6361655930265647,
+      "bagging_fraction": 0.8237920937698429,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0203881999172794,
+      "lambda_l2": 0.00011152247169071995,
+      "min_gain_to_split": 0.001373278895497183,
+      "min_sum_hessian_in_leaf": 0.09956831768656003,
+      "cat_smooth": 81.52837111098879
+    }
+  },
+  {
+    "number": 36,
+    "state": "1",
+    "value": 0.12072015958071933,
+    "params": {
+      "learning_rate": 0.0313708557483893,
+      "num_leaves": 82,
+      "max_depth": -1,
+      "min_data_in_leaf": 12,
+      "feature_fraction": 0.7163751992814347,
+      "bagging_fraction": 0.8004977528465701,
+      "bagging_freq": 2,
+      "lambda_l1": 0.000683015543648654,
+      "lambda_l2": 0.0013641303678588194,
+      "min_gain_to_split": 0.028149742044727383,
+      "min_sum_hessian_in_leaf": 0.02153589390449535,
+      "cat_smooth": 63.663046341261946
+    }
+  },
+  {
+    "number": 37,
+    "state": "1",
+    "value": 0.12052310339711383,
+    "params": {
+      "learning_rate": 0.021637042725152964,
+      "num_leaves": 117,
+      "max_depth": -1,
+      "min_data_in_leaf": 25,
+      "feature_fraction": 0.6678407170274019,
+      "bagging_fraction": 0.8381235534124414,
+      "bagging_freq": 2,
+      "lambda_l1": 0.025986490801509804,
+      "lambda_l2": 0.00023908091093363565,
+      "min_gain_to_split": 0.002647404525407168,
+      "min_sum_hessian_in_leaf": 0.05864042001012685,
+      "cat_smooth": 99.80923541170436
+    }
+  },
+  {
+    "number": 38,
+    "state": "1",
+    "value": 0.11889993468155606,
+    "params": {
+      "learning_rate": 0.0183401318490153,
+      "num_leaves": 170,
+      "max_depth": 7,
+      "min_data_in_leaf": 15,
+      "feature_fraction": 0.628274601359017,
+      "bagging_fraction": 0.8772534282173411,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0022254303631891216,
+      "lambda_l2": 0.0006814731327559371,
+      "min_gain_to_split": 0.0074474753613328224,
+      "min_sum_hessian_in_leaf": 0.003105535961846355,
+      "cat_smooth": 29.276352535533416
+    }
+  },
+  {
+    "number": 39,
+    "state": "1",
+    "value": 0.12190406681465278,
+    "params": {
+      "learning_rate": 0.016600240163066812,
+      "num_leaves": 186,
+      "max_depth": 7,
+      "min_data_in_leaf": 23,
+      "feature_fraction": 0.6333768058855731,
+      "bagging_fraction": 0.8175954422317486,
+      "bagging_freq": 2,
+      "lambda_l1": 0.002270354126023674,
+      "lambda_l2": 23.618618281789104,
+      "min_gain_to_split": 0.028872497738906357,
+      "min_sum_hessian_in_leaf": 0.0022968077727675484,
+      "cat_smooth": 29.683631022274074
+    }
+  },
+  {
+    "number": 40,
+    "state": "1",
+    "value": 0.11908071390446517,
+    "params": {
+      "learning_rate": 0.012761784103204216,
+      "num_leaves": 195,
+      "max_depth": 7,
+      "min_data_in_leaf": 29,
+      "feature_fraction": 0.714082347385687,
+      "bagging_fraction": 0.7816434692640403,
+      "bagging_freq": 2,
+      "lambda_l1": 0.009300631345556976,
+      "lambda_l2": 0.0007162898138063947,
+      "min_gain_to_split": 0.007625991470542241,
+      "min_sum_hessian_in_leaf": 0.0037110518876986185,
+      "cat_smooth": 26.17290446702306
+    }
+  },
+  {
+    "number": 41,
+    "state": "2",
+    "value": 0.1257222336156384,
+    "params": {
+      "learning_rate": 0.01908360526811078,
+      "num_leaves": 159,
+      "max_depth": 7,
+      "min_data_in_leaf": 14,
+      "feature_fraction": 0.6272529691209197,
+      "bagging_fraction": 0.9154143336817895,
+      "bagging_freq": 2,
+      "lambda_l1": 0.10969541650190358,
+      "lambda_l2": 0.005782047381332386,
+      "min_gain_to_split": 0.09828937704430853,
+      "min_sum_hessian_in_leaf": 0.0013511115952105346,
+      "cat_smooth": 15.33412693386316
+    }
+  },
+  {
+    "number": 42,
+    "state": "1",
+    "value": 0.11952821518242436,
+    "params": {
+      "learning_rate": 0.026270446712012716,
+      "num_leaves": 110,
+      "max_depth": 10,
+      "min_data_in_leaf": 17,
+      "feature_fraction": 0.6613043029457009,
+      "bagging_fraction": 0.89099752223081,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0025461072831422277,
+      "lambda_l2": 0.00017847423120476272,
+      "min_gain_to_split": 0.004653205640036571,
+      "min_sum_hessian_in_leaf": 0.0019999081990278293,
+      "cat_smooth": 41.827212788076466
+    }
+  },
+  {
+    "number": 43,
+    "state": "1",
+    "value": 0.12019453286194019,
+    "params": {
+      "learning_rate": 0.02189021822970902,
+      "num_leaves": 123,
+      "max_depth": 8,
+      "min_data_in_leaf": 11,
+      "feature_fraction": 0.6260060011697752,
+      "bagging_fraction": 0.8796015768076221,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0010070593350141295,
+      "lambda_l2": 0.00010126550274726163,
+      "min_gain_to_split": 0.0016345723248510783,
+      "min_sum_hessian_in_leaf": 0.07762754382219511,
+      "cat_smooth": 71.52029683116741
+    }
+  },
+  {
+    "number": 44,
+    "state": "1",
+    "value": 0.12043563614267827,
+    "params": {
+      "learning_rate": 0.029515285461052657,
+      "num_leaves": 97,
+      "max_depth": -1,
+      "min_data_in_leaf": 14,
+      "feature_fraction": 0.6549512265856999,
+      "bagging_fraction": 0.9301505957632396,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0067771194624475384,
+      "lambda_l2": 0.0010104173006469104,
+      "min_gain_to_split": 0.0005663637500051957,
+      "min_sum_hessian_in_leaf": 0.00452522443900113,
+      "cat_smooth": 40.964319037219106
+    }
+  },
+  {
+    "number": 45,
+    "state": "1",
+    "value": 0.120283226870155,
+    "params": {
+      "learning_rate": 0.018227919808570928,
+      "num_leaves": 249,
+      "max_depth": 7,
+      "min_data_in_leaf": 22,
+      "feature_fraction": 0.620920135561268,
+      "bagging_fraction": 0.9577409428179634,
+      "bagging_freq": 2,
+      "lambda_l1": 0.025221465140161173,
+      "lambda_l2": 0.00023812334769111976,
+      "min_gain_to_split": 0.00110779156657397,
+      "min_sum_hessian_in_leaf": 0.030815687528188834,
+      "cat_smooth": 56.0692192663014
+    }
+  },
+  {
+    "number": 46,
+    "state": "1",
+    "value": 0.11858542445297895,
+    "params": {
+      "learning_rate": 0.024591663365162473,
+      "num_leaves": 79,
+      "max_depth": -1,
+      "min_data_in_leaf": 18,
+      "feature_fraction": 0.6723424104045264,
+      "bagging_fraction": 0.8308113069879443,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0005468339238654862,
+      "lambda_l2": 0.001913381088635631,
+      "min_gain_to_split": 0.003006091712618559,
+      "min_sum_hessian_in_leaf": 0.014963274882795445,
+      "cat_smooth": 30.767053986975334
+    }
+  },
+  {
+    "number": 47,
+    "state": "2",
+    "value": 0.11986968949916513,
+    "params": {
+      "learning_rate": 0.0351634591396614,
+      "num_leaves": 80,
+      "max_depth": -1,
+      "min_data_in_leaf": 29,
+      "feature_fraction": 0.6791392925905282,
+      "bagging_fraction": 0.8164692962746384,
+      "bagging_freq": 0,
+      "lambda_l1": 0.0013173791746981954,
+      "lambda_l2": 0.0018390492342128242,
+      "min_gain_to_split": 0.003628083848595588,
+      "min_sum_hessian_in_leaf": 0.009956409351395329,
+      "cat_smooth": 9.860303086986237
+    }
+  },
+  {
+    "number": 48,
+    "state": "1",
+    "value": 0.12288453890280907,
+    "params": {
+      "learning_rate": 0.027117536231579403,
+      "num_leaves": 50,
+      "max_depth": 10,
+      "min_data_in_leaf": 19,
+      "feature_fraction": 0.7017926890672974,
+      "bagging_fraction": 0.8450454121361648,
+      "bagging_freq": 2,
+      "lambda_l1": 0.1846826769365045,
+      "lambda_l2": 1.4249871984105043,
+      "min_gain_to_split": 0.049250758376558665,
+      "min_sum_hessian_in_leaf": 0.01393861237696004,
+      "cat_smooth": 18.46341971222133
+    }
+  },
+  {
+    "number": 49,
+    "state": "1",
+    "value": 0.12091970348138922,
+    "params": {
+      "learning_rate": 0.04843354319737656,
+      "num_leaves": 162,
+      "max_depth": 8,
+      "min_data_in_leaf": 25,
+      "feature_fraction": 0.7568317965040509,
+      "bagging_fraction": 0.8650801345044432,
+      "bagging_freq": 2,
+      "lambda_l1": 0.011732429385863812,
+      "lambda_l2": 0.035708481722870014,
+      "min_gain_to_split": 0.006947958952031734,
+      "min_sum_hessian_in_leaf": 0.022537743913857867,
+      "cat_smooth": 30.591704025331975
+    }
+  },
+  {
+    "number": 50,
+    "state": "2",
+    "value": 0.2071161206659354,
+    "params": {
+      "learning_rate": 0.03963188594715348,
+      "num_leaves": 59,
+      "max_depth": 7,
+      "min_data_in_leaf": 18,
+      "feature_fraction": 0.651834895199938,
+      "bagging_fraction": 0.7837317581058223,
+      "bagging_freq": 2,
+      "lambda_l1": 19.357365454347622,
+      "lambda_l2": 0.007488968643678046,
+      "min_gain_to_split": 0.01125670506092611,
+      "min_sum_hessian_in_leaf": 0.01669133936350137,
+      "cat_smooth": 42.41165999577408
+    }
+  },
+  {
+    "number": 51,
+    "state": "1",
+    "value": 0.11775005628643884,
+    "params": {
+      "learning_rate": 0.020605548481102517,
+      "num_leaves": 91,
+      "max_depth": 6,
+      "min_data_in_leaf": 15,
+      "feature_fraction": 0.6704365309844903,
+      "bagging_fraction": 0.8281430353370878,
+      "bagging_freq": 2,
+      "lambda_l1": 0.000119003646082582,
+      "lambda_l2": 0.002934665630890378,
+      "min_gain_to_split": 0.002224227425519468,
+      "min_sum_hessian_in_leaf": 0.011112118594680994,
+      "cat_smooth": 24.749355636036448
+    }
+  },
+  {
+    "number": 52,
+    "state": "1",
+    "value": 0.11999468219601792,
+    "params": {
+      "learning_rate": 0.07661929261847407,
+      "num_leaves": 89,
+      "max_depth": 6,
+      "min_data_in_leaf": 15,
+      "feature_fraction": 0.6752394358488247,
+      "bagging_fraction": 0.8345339017686624,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0001420800471126029,
+      "lambda_l2": 0.0032061141510845172,
+      "min_gain_to_split": 0.0020225906631272635,
+      "min_sum_hessian_in_leaf": 0.01059946746519117,
+      "cat_smooth": 11.380802975708978
+    }
+  },
+  {
+    "number": 53,
+    "state": "1",
+    "value": 0.11847823126818476,
+    "params": {
+      "learning_rate": 0.02084581278694626,
+      "num_leaves": 75,
+      "max_depth": 6,
+      "min_data_in_leaf": 12,
+      "feature_fraction": 0.6406005578882233,
+      "bagging_fraction": 0.8057357558139947,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00011099200456638206,
+      "lambda_l2": 0.0009525952106095282,
+      "min_gain_to_split": 0.0039889780121109405,
+      "min_sum_hessian_in_leaf": 0.007876695756749647,
+      "cat_smooth": 22.704253057085094
+    }
+  },
+  {
+    "number": 54,
+    "state": "1",
+    "value": 0.11828847656699178,
+    "params": {
+      "learning_rate": 0.013200506717534683,
+      "num_leaves": 76,
+      "max_depth": 6,
+      "min_data_in_leaf": 12,
+      "feature_fraction": 0.6470128863171495,
+      "bagging_fraction": 0.7577254064637915,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00010140381714041522,
+      "lambda_l2": 0.0008196331043369394,
+      "min_gain_to_split": 0.0037250928245157943,
+      "min_sum_hessian_in_leaf": 0.005195096820819349,
+      "cat_smooth": 24.296813468297596
+    }
+  },
+  {
+    "number": 55,
+    "state": "1",
+    "value": 0.1176748482559979,
+    "params": {
+      "learning_rate": 0.012242038969038842,
+      "num_leaves": 72,
+      "max_depth": 6,
+      "min_data_in_leaf": 11,
+      "feature_fraction": 0.7051221622389359,
+      "bagging_fraction": 0.752727587588023,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0001026075217297639,
+      "lambda_l2": 0.0011663421146573991,
+      "min_gain_to_split": 0.0035645557646673477,
+      "min_sum_hessian_in_leaf": 0.005786707714948962,
+      "cat_smooth": 18.59064827796306
+    }
+  },
+  {
+    "number": 56,
+    "state": "1",
+    "value": 0.11798412465244476,
+    "params": {
+      "learning_rate": 0.012801969585558315,
+      "num_leaves": 71,
+      "max_depth": 6,
+      "min_data_in_leaf": 10,
+      "feature_fraction": 0.7022657400840504,
+      "bagging_fraction": 0.7563846915698392,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00010589841547559607,
+      "lambda_l2": 0.000942638817715667,
+      "min_gain_to_split": 0.0009864158481146894,
+      "min_sum_hessian_in_leaf": 0.005296292421448695,
+      "cat_smooth": 17.44855286738409
+    }
+  },
+  {
+    "number": 57,
+    "state": "1",
+    "value": 0.11916965251404477,
+    "params": {
+      "learning_rate": 0.012855106737713127,
+      "num_leaves": 16,
+      "max_depth": 6,
+      "min_data_in_leaf": 10,
+      "feature_fraction": 0.775346385759992,
+      "bagging_fraction": 0.7494603840155903,
+      "bagging_freq": 0,
+      "lambda_l1": 0.0001928481533043203,
+      "lambda_l2": 0.00046083498210576675,
+      "min_gain_to_split": 0.001012739587371978,
+      "min_sum_hessian_in_leaf": 0.004880690312174131,
+      "cat_smooth": 17.2814896678592
+    }
+  },
+  {
+    "number": 58,
+    "state": "1",
+    "value": 0.11797926785426043,
+    "params": {
+      "learning_rate": 0.010848724111669978,
+      "num_leaves": 63,
+      "max_depth": 6,
+      "min_data_in_leaf": 11,
+      "feature_fraction": 0.7321017705918037,
+      "bagging_fraction": 0.7305477176483798,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0002419108115294274,
+      "lambda_l2": 0.004300170069685449,
+      "min_gain_to_split": 0.001384580364863337,
+      "min_sum_hessian_in_leaf": 0.006151447930359641,
+      "cat_smooth": 9.801324909344839
+    }
+  },
+  {
+    "number": 59,
+    "state": "1",
+    "value": 0.11768111115327376,
+    "params": {
+      "learning_rate": 0.010167441540275312,
+      "num_leaves": 63,
+      "max_depth": 6,
+      "min_data_in_leaf": 11,
+      "feature_fraction": 0.7291212630211246,
+      "bagging_fraction": 0.73615132781936,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00025902381522646033,
+      "lambda_l2": 0.020194186403476484,
+      "min_gain_to_split": 0.0013589588490294162,
+      "min_sum_hessian_in_leaf": 0.006417608360921517,
+      "cat_smooth": 7.87143490601769
+    }
+  },
+  {
+    "number": 60,
+    "state": "1",
+    "value": 0.11757415998028112,
+    "params": {
+      "learning_rate": 0.010155422229854529,
+      "num_leaves": 44,
+      "max_depth": 6,
+      "min_data_in_leaf": 11,
+      "feature_fraction": 0.7356307865341725,
+      "bagging_fraction": 0.7062102970237766,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00022406379614171377,
+      "lambda_l2": 0.0830005114381872,
+      "min_gain_to_split": 0.000777967046224926,
+      "min_sum_hessian_in_leaf": 0.006546834510911315,
+      "cat_smooth": 8.508903422264199
+    }
+  },
+  {
+    "number": 61,
+    "state": "1",
+    "value": 0.11820152051378371,
+    "params": {
+      "learning_rate": 0.010317617434370012,
+      "num_leaves": 45,
+      "max_depth": 6,
+      "min_data_in_leaf": 11,
+      "feature_fraction": 0.729768073852345,
+      "bagging_fraction": 0.7317800066346386,
+      "bagging_freq": 1,
+      "lambda_l1": 0.0002680073737555747,
+      "lambda_l2": 0.11016662130505579,
+      "min_gain_to_split": 0.0012966182551236599,
+      "min_sum_hessian_in_leaf": 0.006272947446654496,
+      "cat_smooth": 7.581411832864256
+    }
+  },
+  {
+    "number": 62,
+    "state": "1",
+    "value": 0.11785338986466412,
+    "params": {
+      "learning_rate": 0.011506802853411102,
+      "num_leaves": 56,
+      "max_depth": 6,
+      "min_data_in_leaf": 11,
+      "feature_fraction": 0.7635061031861112,
+      "bagging_fraction": 0.7037936329063931,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00018177715818612017,
+      "lambda_l2": 0.02253582958816486,
+      "min_gain_to_split": 0.0007647337677517275,
+      "min_sum_hessian_in_leaf": 0.00363958080914135,
+      "cat_smooth": 6.050316117718544
+    }
+  },
+  {
+    "number": 63,
+    "state": "1",
+    "value": 0.11764056257937561,
+    "params": {
+      "learning_rate": 0.011400778210788998,
+      "num_leaves": 39,
+      "max_depth": 6,
+      "min_data_in_leaf": 11,
+      "feature_fraction": 0.7576742115572391,
+      "bagging_fraction": 0.7008387073470496,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0001960284564688397,
+      "lambda_l2": 0.1803853577128649,
+      "min_gain_to_split": 0.0007489445632503294,
+      "min_sum_hessian_in_leaf": 0.003489507434096121,
+      "cat_smooth": 5.525290963401572
+    }
+  },
+  {
+    "number": 64,
+    "state": "1",
+    "value": 0.11739877220893724,
+    "params": {
+      "learning_rate": 0.01198570847752871,
+      "num_leaves": 38,
+      "max_depth": 6,
+      "min_data_in_leaf": 13,
+      "feature_fraction": 0.7582689259966664,
+      "bagging_fraction": 0.701107622841213,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00040247658461036714,
+      "lambda_l2": 0.3889244586411566,
+      "min_gain_to_split": 0.0007278632649501916,
+      "min_sum_hessian_in_leaf": 0.003796797533972028,
+      "cat_smooth": 5.435687887876427
+    }
+  },
+  {
+    "number": 65,
+    "state": "1",
+    "value": 0.11739945046213214,
+    "params": {
+      "learning_rate": 0.01188851660828264,
+      "num_leaves": 39,
+      "max_depth": 6,
+      "min_data_in_leaf": 13,
+      "feature_fraction": 0.78093345144797,
+      "bagging_fraction": 0.6970307081085803,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00040417817508380373,
+      "lambda_l2": 0.2086624046814022,
+      "min_gain_to_split": 0.0007294763715148,
+      "min_sum_hessian_in_leaf": 0.00384204025990621,
+      "cat_smooth": 5.151841010007032
+    }
+  },
+  {
+    "number": 66,
+    "state": "1",
+    "value": 0.11855402675064364,
+    "params": {
+      "learning_rate": 0.014299978626039688,
+      "num_leaves": 31,
+      "max_depth": 6,
+      "min_data_in_leaf": 13,
+      "feature_fraction": 0.8214628333996264,
+      "bagging_fraction": 0.6755127737210647,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0003176682572858938,
+      "lambda_l2": 0.3869599112549045,
+      "min_gain_to_split": 0.0006487382382095258,
+      "min_sum_hessian_in_leaf": 0.002635035960059719,
+      "cat_smooth": 4.466680777424356
+    }
+  },
+  {
+    "number": 67,
+    "state": "1",
+    "value": 0.1178715359532487,
+    "params": {
+      "learning_rate": 0.011606341799158173,
+      "num_leaves": 39,
+      "max_depth": 6,
+      "min_data_in_leaf": 13,
+      "feature_fraction": 0.7798425283004999,
+      "bagging_fraction": 0.6410393502126789,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0004829465534162089,
+      "lambda_l2": 0.20787876568554617,
+      "min_gain_to_split": 0.0002918542263125598,
+      "min_sum_hessian_in_leaf": 0.0041066313237313684,
+      "cat_smooth": 8.373780583714321
+    }
+  },
+  {
+    "number": 68,
+    "state": "2",
+    "value": 0.16087977042537888,
+    "params": {
+      "learning_rate": 0.016815864616671325,
+      "num_leaves": 27,
+      "max_depth": 6,
+      "min_data_in_leaf": 10,
+      "feature_fraction": 0.7931551392545995,
+      "bagging_fraction": 0.7057000524320403,
+      "bagging_freq": 2,
+      "lambda_l1": 7.57674088499493,
+      "lambda_l2": 0.5612090363035953,
+      "min_gain_to_split": 0.00042801049864402737,
+      "min_sum_hessian_in_leaf": 0.008021237475273248,
+      "cat_smooth": 2.326917479882928
+    }
+  },
+  {
+    "number": 69,
+    "state": "1",
+    "value": 0.12157110139273249,
+    "params": {
+      "learning_rate": 0.010012750012752314,
+      "num_leaves": 38,
+      "max_depth": 6,
+      "min_data_in_leaf": 14,
+      "feature_fraction": 0.7479091473134799,
+      "bagging_fraction": 0.6879468743538129,
+      "bagging_freq": 0,
+      "lambda_l1": 0.0006534962820975331,
+      "lambda_l2": 0.09486535252282448,
+      "min_gain_to_split": 0.00024205738396403372,
+      "min_sum_hessian_in_leaf": 0.003126116772955651,
+      "cat_smooth": 4.754029692423014
+    }
+  },
+  {
+    "number": 70,
+    "state": "2",
+    "value": 0.13935781207817,
+    "params": {
+      "learning_rate": 0.013897805063070515,
+      "num_leaves": 27,
+      "max_depth": 6,
+      "min_data_in_leaf": 13,
+      "feature_fraction": 0.7907795211869579,
+      "bagging_fraction": 0.6179574961287814,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0003682823719961924,
+      "lambda_l2": 0.05481469767070796,
+      "min_gain_to_split": 0.5294112381479192,
+      "min_sum_hessian_in_leaf": 0.008792608302506794,
+      "cat_smooth": 5.78023571697195
+    }
+  },
+  {
+    "number": 71,
+    "state": "2",
+    "value": 0.13136091483171647,
+    "params": {
+      "learning_rate": 0.012085074910387258,
+      "num_leaves": 32,
+      "max_depth": 6,
+      "min_data_in_leaf": 124,
+      "feature_fraction": 0.7451880775509018,
+      "bagging_fraction": 0.6456103079991887,
+      "bagging_freq": 1,
+      "lambda_l1": 0.0001696684469021696,
+      "lambda_l2": 1.2466163400392511,
+      "min_gain_to_split": 0.0007726861831416031,
+      "min_sum_hessian_in_leaf": 0.01179864409502932,
+      "cat_smooth": 6.430783492841082
+    }
+  },
+  {
+    "number": 72,
+    "state": "1",
+    "value": 0.11898542701538535,
+    "params": {
+      "learning_rate": 0.011177697880095625,
+      "num_leaves": 56,
+      "max_depth": 6,
+      "min_data_in_leaf": 11,
+      "feature_fraction": 0.7620943243539161,
+      "bagging_fraction": 0.7108419680933247,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0001762139433428031,
+      "lambda_l2": 0.017877594651998722,
+      "min_gain_to_split": 0.0007528746405282105,
+      "min_sum_hessian_in_leaf": 0.003641611727782395,
+      "cat_smooth": 3.5581019182091125
+    }
+  },
+  {
+    "number": 73,
+    "state": "1",
+    "value": 0.11789530852896546,
+    "params": {
+      "learning_rate": 0.011672900461054639,
+      "num_leaves": 43,
+      "max_depth": 6,
+      "min_data_in_leaf": 11,
+      "feature_fraction": 0.7653469734952065,
+      "bagging_fraction": 0.6957803044345814,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00020989718478932958,
+      "lambda_l2": 0.02865889503132799,
+      "min_gain_to_split": 0.0020967202416561333,
+      "min_sum_hessian_in_leaf": 0.006989655344222322,
+      "cat_smooth": 5.282492059272527
+    }
+  },
+  {
+    "number": 74,
+    "state": "1",
+    "value": 0.11737287753002731,
+    "params": {
+      "learning_rate": 0.01596103968500339,
+      "num_leaves": 52,
+      "max_depth": 6,
+      "min_data_in_leaf": 15,
+      "feature_fraction": 0.7203057230667232,
+      "bagging_fraction": 0.6706713803503406,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00014792539264351013,
+      "lambda_l2": 0.1465079608524738,
+      "min_gain_to_split": 0.00043458054300937754,
+      "min_sum_hessian_in_leaf": 0.004128603959293767,
+      "cat_smooth": 6.587221950462687
+    }
+  },
+  {
+    "number": 75,
+    "state": "1",
+    "value": 0.1176359155022437,
+    "params": {
+      "learning_rate": 0.016121880607990538,
+      "num_leaves": 46,
+      "max_depth": 6,
+      "min_data_in_leaf": 15,
+      "feature_fraction": 0.7184535539938519,
+      "bagging_fraction": 0.6738870386754666,
+      "bagging_freq": 2,
+      "lambda_l1": 0.000359504240181606,
+      "lambda_l2": 0.13843266596331458,
+      "min_gain_to_split": 0.0004764747046951887,
+      "min_sum_hessian_in_leaf": 0.004300817280293776,
+      "cat_smooth": 8.881878909107508
+    }
+  },
+  {
+    "number": 76,
+    "state": "1",
+    "value": 0.11793278233605738,
+    "params": {
+      "learning_rate": 0.016381988798472077,
+      "num_leaves": 50,
+      "max_depth": 6,
+      "min_data_in_leaf": 12,
+      "feature_fraction": 0.7202018099812587,
+      "bagging_fraction": 0.6739953602351691,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0009299589555920566,
+      "lambda_l2": 0.16634767265472397,
+      "min_gain_to_split": 0.00013887440945070076,
+      "min_sum_hessian_in_leaf": 0.0019868200268629258,
+      "cat_smooth": 8.402632814177123
+    }
+  },
+  {
+    "number": 77,
+    "state": "1",
+    "value": 0.11811297506322141,
+    "params": {
+      "learning_rate": 0.014164906506162622,
+      "num_leaves": 46,
+      "max_depth": 6,
+      "min_data_in_leaf": 13,
+      "feature_fraction": 0.8227268642167291,
+      "bagging_fraction": 0.6574223114199997,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0004124939022486828,
+      "lambda_l2": 0.1247093034413701,
+      "min_gain_to_split": 0.0004904736378225884,
+      "min_sum_hessian_in_leaf": 0.0041885041471465805,
+      "cat_smooth": 6.988354495882569
+    }
+  },
+  {
+    "number": 78,
+    "state": "1",
+    "value": 0.11712362623248132,
+    "params": {
+      "learning_rate": 0.015816624189945824,
+      "num_leaves": 34,
+      "max_depth": 6,
+      "min_data_in_leaf": 15,
+      "feature_fraction": 0.7413786923635868,
+      "bagging_fraction": 0.6817058913166325,
+      "bagging_freq": 2,
+      "lambda_l1": 0.00063763307246754,
+      "lambda_l2": 0.3687074200047591,
+      "min_gain_to_split": 0.0003080620561763732,
+      "min_sum_hessian_in_leaf": 0.0031416450804975407,
+      "cat_smooth": 11.623920068131588
+    }
+  },
+  {
+    "number": 79,
+    "state": "1",
+    "value": 0.11679971145172444,
+    "params": {
+      "learning_rate": 0.015687402125120032,
+      "num_leaves": 36,
+      "max_depth": 6,
+      "min_data_in_leaf": 15,
+      "feature_fraction": 0.7049224772740363,
+      "bagging_fraction": 0.6854980158237529,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0006906023046777574,
+      "lambda_l2": 0.36454102330977517,
+      "min_gain_to_split": 0.00034935731570274125,
+      "min_sum_hessian_in_leaf": 0.0031048713097740314,
+      "cat_smooth": 11.949452155914503
+    }
+  },
+  {
+    "number": 80,
+    "state": "1",
+    "value": 0.11675499146285122,
+    "params": {
+      "learning_rate": 0.015799641702546167,
+      "num_leaves": 23,
+      "max_depth": 6,
+      "min_data_in_leaf": 16,
+      "feature_fraction": 0.7436851970355183,
+      "bagging_fraction": 0.6830837605657984,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0017376883598267255,
+      "lambda_l2": 0.29635017798974966,
+      "min_gain_to_split": 0.00025150660451136347,
+      "min_sum_hessian_in_leaf": 0.0030470882519964557,
+      "cat_smooth": 11.580525262565244
+    }
+  },
+  {
+    "number": 81,
+    "state": "1",
+    "value": 0.11665380273556444,
+    "params": {
+      "learning_rate": 0.016133015414239428,
+      "num_leaves": 22,
+      "max_depth": 6,
+      "min_data_in_leaf": 15,
+      "feature_fraction": 0.7431163291462188,
+      "bagging_fraction": 0.6348761511890547,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0007487928754444242,
+      "lambda_l2": 0.3256927881045831,
+      "min_gain_to_split": 0.00024338788046338036,
+      "min_sum_hessian_in_leaf": 0.0016475056683526643,
+      "cat_smooth": 12.175544684179156
+    }
+  },
+  {
+    "number": 82,
+    "state": "1",
+    "value": 0.11650185290446177,
+    "params": {
+      "learning_rate": 0.015969318319028265,
+      "num_leaves": 21,
+      "max_depth": 6,
+      "min_data_in_leaf": 15,
+      "feature_fraction": 0.7408480491976288,
+      "bagging_fraction": 0.6314781527353865,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0014269747982516257,
+      "lambda_l2": 0.32976646050478386,
+      "min_gain_to_split": 0.0002479492583510288,
+      "min_sum_hessian_in_leaf": 0.0015064255779156585,
+      "cat_smooth": 12.320469344141134
+    }
+  },
+  {
+    "number": 83,
+    "state": "1",
+    "value": 0.11747790591324817,
+    "params": {
+      "learning_rate": 0.01749562171290766,
+      "num_leaves": 21,
+      "max_depth": 6,
+      "min_data_in_leaf": 22,
+      "feature_fraction": 0.7408514325289113,
+      "bagging_fraction": 0.6013516288552259,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0015100336907462064,
+      "lambda_l2": 0.3171512522285895,
+      "min_gain_to_split": 0.000134905376858292,
+      "min_sum_hessian_in_leaf": 0.001418465921591909,
+      "cat_smooth": 11.994282992795709
+    }
+  },
+  {
+    "number": 84,
+    "state": "1",
+    "value": 0.1171491650930292,
+    "params": {
+      "learning_rate": 0.015337597493345774,
+      "num_leaves": 22,
+      "max_depth": 6,
+      "min_data_in_leaf": 22,
+      "feature_fraction": 0.7486470194071163,
+      "bagging_fraction": 0.6055888693069551,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0006048371239581318,
+      "lambda_l2": 0.3278320590723434,
+      "min_gain_to_split": 0.0001621556833461351,
+      "min_sum_hessian_in_leaf": 0.001377570562543676,
+      "cat_smooth": 11.850034899804164
+    }
+  },
+  {
+    "number": 85,
+    "state": "1",
+    "value": 0.11589764546428698,
+    "params": {
+      "learning_rate": 0.015493427587204666,
+      "num_leaves": 22,
+      "max_depth": 10,
+      "min_data_in_leaf": 16,
+      "feature_fraction": 0.7814617564795938,
+      "bagging_fraction": 0.6316203301558723,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0007044706709364827,
+      "lambda_l2": 0.5135872031209187,
+      "min_gain_to_split": 0.0002387441463449639,
+      "min_sum_hessian_in_leaf": 0.0010720063311792669,
+      "cat_smooth": 13.757199573917699
+    }
+  },
+  {
+    "number": 86,
+    "state": "1",
+    "value": 0.11671810526146124,
+    "params": {
+      "learning_rate": 0.015435094168746739,
+      "num_leaves": 21,
+      "max_depth": 10,
+      "min_data_in_leaf": 18,
+      "feature_fraction": 0.7504273080237819,
+      "bagging_fraction": 0.6260641730441409,
+      "bagging_freq": 2,
+      "lambda_l1": 0.0007865105986451819,
+      "lambda_l2": 0.699325294581163,
+      "min_gain_to_split": 0.00022907345914459438,
+      "min_sum_hessian_in_leaf": 0.0010694382572062954,
+      "cat_smooth": 14.207219295938483
+    }
+  },
+  {
+    "number": 87,
+    "state": "1",
+    "value": 0.11610804093244284,
+    "params": {
+      "learning_rate": 0.015678242476590224,
+      "num_leaves": 21,
+      "max_depth": 10,
+      "min_data_in_leaf": 16,
+      "feature_fraction": 0.6892568091772394,
+      "bagging_fraction": 0.6315361604228195,
+      "bagging_freq": 1,
+      "lambda_l1": 0.0036438115129591685,
+      "lambda_l2": 0.7167821846960879,
+      "min_gain_to_split": 0.00023128114900005495,
+      "min_sum_hessian_in_leaf": 0.001181652618830036,
+      "cat_smooth": 14.068328864648125
+    }
+  },
+  {
+    "number": 88,
+    "state": "1",
+    "value": 0.11717750838686818,
+    "params": {
+      "learning_rate": 0.014888345118196334,
+      "num_leaves": 21,
+      "max_depth": 10,
+      "min_data_in_leaf": 19,
+      "feature_fraction": 0.7495743106640319,
+      "bagging_fraction": 0.6296879570193129,
+      "bagging_freq": 1,
+      "lambda_l1": 0.0034730325410084603,
+      "lambda_l2": 6.37572762213741,
+      "min_gain_to_split": 0.00023620526934441777,
+      "min_sum_hessian_in_leaf": 0.0010208128748360407,
+      "cat_smooth": 14.867849025242213
+    }
+  },
+  {
+    "number": 89,
+    "state": "1",
+    "value": 0.11686986478193988,
+    "params": {
+      "learning_rate": 0.019704612954080367,
+      "num_leaves": 22,
+      "max_depth": 10,
+      "min_data_in_leaf": 16,
+      "feature_fraction": 0.6959841298254082,
+      "bagging_fraction": 0.6188682019343544,
+      "bagging_freq": 1,
+      "lambda_l1": 0.0018052318891380024,
+      "lambda_l2": 0.8613240347762635,
+      "min_gain_to_split": 0.0001762914329152449,
+      "min_sum_hessian_in_leaf": 0.001459480190315489,
+      "cat_smooth": 13.057798484994668
+    }
+  },
+  {
+    "number": 90,
+    "state": "1",
+    "value": 0.11679128541932227,
+    "params": {
+      "learning_rate": 0.01772432156831296,
+      "num_leaves": 24,
+      "max_depth": 10,
+      "min_data_in_leaf": 16,
+      "feature_fraction": 0.687793363793157,
+      "bagging_fraction": 0.6215102572484685,
+      "bagging_freq": 1,
+      "lambda_l1": 0.0018509182756321423,
+      "lambda_l2": 0.7958013907070132,
+      "min_gain_to_split": 0.00033096689963563994,
+      "min_sum_hessian_in_leaf": 0.0015873562667620103,
+      "cat_smooth": 13.711870386656408
+    }
+  },
+  {
+    "number": 91,
+    "state": "1",
+    "value": 0.11610955606434145,
+    "params": {
+      "learning_rate": 0.019557345292094932,
+      "num_leaves": 24,
+      "max_depth": 10,
+      "min_data_in_leaf": 18,
+      "feature_fraction": 0.6934804561129745,
+      "bagging_fraction": 0.617640921646814,
+      "bagging_freq": 1,
+      "lambda_l1": 0.0017222586622231367,
+      "lambda_l2": 0.9038344540524613,
+      "min_gain_to_split": 0.00010436644758282625,
+      "min_sum_hessian_in_leaf": 0.0016030979803463008,
+      "cat_smooth": 13.554850045685496
+    }
+  },
+  {
+    "number": 92,
+    "state": "1",
+    "value": 0.1167932230054001,
+    "params": {
+      "learning_rate": 0.01803339939971008,
+      "num_leaves": 24,
+      "max_depth": 10,
+      "min_data_in_leaf": 18,
+      "feature_fraction": 0.6908856427675836,
+      "bagging_fraction": 0.6203996715701637,
+      "bagging_freq": 1,
+      "lambda_l1": 0.0015942962995379381,
+      "lambda_l2": 0.7891302912445743,
+      "min_gain_to_split": 0.00012168420812815373,
+      "min_sum_hessian_in_leaf": 0.0017570653496569826,
+      "cat_smooth": 13.701841912958486
+    }
+  },
+  {
+    "number": 93,
+    "state": "1",
+    "value": 0.11705368367973171,
+    "params": {
+      "learning_rate": 0.017830729234708614,
+      "num_leaves": 25,
+      "max_depth": 10,
+      "min_data_in_leaf": 18,
+      "feature_fraction": 0.7091747682269893,
+      "bagging_fraction": 0.632140637468419,
+      "bagging_freq": 1,
+      "lambda_l1": 0.0010609891548250016,
+      "lambda_l2": 2.7317488026769947,
+      "min_gain_to_split": 0.00010459133260648667,
+      "min_sum_hessian_in_leaf": 0.0015851246162705578,
+      "cat_smooth": 13.396926702650253
+    }
+  },
+  {
+    "number": 94,
+    "state": "1",
+    "value": 0.12294400846998077,
+    "params": {
+      "learning_rate": 0.19540615096801928,
+      "num_leaves": 17,
+      "max_depth": 10,
+      "min_data_in_leaf": 17,
+      "feature_fraction": 0.6836840446650361,
+      "bagging_fraction": 0.6548866774425243,
+      "bagging_freq": 1,
+      "lambda_l1": 0.00486715346216324,
+      "lambda_l2": 0.572047589266679,
+      "min_gain_to_split": 0.00023628370132137465,
+      "min_sum_hessian_in_leaf": 0.0011938413539480269,
+      "cat_smooth": 15.910711371534168
+    }
+  },
+  {
+    "number": 95,
+    "state": "1",
+    "value": 0.11665496779392223,
+    "params": {
+      "learning_rate": 0.01351058071611224,
+      "num_leaves": 19,
+      "max_depth": 10,
+      "min_data_in_leaf": 19,
+      "feature_fraction": 0.6907404351088338,
+      "bagging_fraction": 0.616206582312663,
+      "bagging_freq": 1,
+      "lambda_l1": 0.003260257240659525,
+      "lambda_l2": 2.241662744510176,
+      "min_gain_to_split": 0.00012703523361539757,
+      "min_sum_hessian_in_leaf": 0.001623359336641487,
+      "cat_smooth": 10.599154119562996
+    }
+  },
+  {
+    "number": 96,
+    "state": "1",
+    "value": 0.11642987653065189,
+    "params": {
+      "learning_rate": 0.013848379329882145,
+      "num_leaves": 18,
+      "max_depth": 10,
+      "min_data_in_leaf": 23,
+      "feature_fraction": 0.6926174079079123,
+      "bagging_fraction": 0.6147376369910041,
+      "bagging_freq": 1,
+      "lambda_l1": 0.006586862918039982,
+      "lambda_l2": 2.8106301346937275,
+      "min_gain_to_split": 0.00012432486070435779,
+      "min_sum_hessian_in_leaf": 0.0017046276159616864,
+      "cat_smooth": 10.360088530237798
+    }
+  },
+  {
+    "number": 97,
+    "state": "1",
+    "value": 0.11746480102189157,
+    "params": {
+      "learning_rate": 0.013537940204415498,
+      "num_leaves": 19,
+      "max_depth": 10,
+      "min_data_in_leaf": 27,
+      "feature_fraction": 0.6961463238134347,
+      "bagging_fraction": 0.6318100274533608,
+      "bagging_freq": 1,
+      "lambda_l1": 0.0030181227904205123,
+      "lambda_l2": 2.144946671938888,
+      "min_gain_to_split": 0.00022451384334235003,
+      "min_sum_hessian_in_leaf": 0.0012160507086831428,
+      "cat_smooth": 10.429214137988001
+    }
+  }
+]

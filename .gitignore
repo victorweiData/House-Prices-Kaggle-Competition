@@ -1,0 +1,22 @@
+# MLflow
+mlruns/
+
+# data
+data/
+
+# aritfacts
+aritfacts/
+
+# learn
+learning/
+
+# configs
+configs/
+
+# artifacts
+aritfacts/
+
+optuna_studies.dbnotebooks/04b_lgbm.ipynb
+*.ipynb_checkpoints
+*.DS_Store
+__pycache__/
