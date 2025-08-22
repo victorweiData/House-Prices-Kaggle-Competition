@@ -4,9 +4,11 @@ This repository contains my end-to-end pipeline for the [Kaggle House Prices: Ad
 
 ## 🚀 Results
 
-* **Leaderboard placement:** Top **3%** (Public LB)
+* **Leaderboard placement:** Top **3%** (Public LB) (minus the cheaters who used leaked predictations)
 * **Final score:** ~0.120 RMSE (log scale)
 * **Modeling strategy:** A **single CatBoost model** (v04 feature set) – no heavy stacking or complex blending.
+
+![alt text](image.png)
 
 Despite experimenting with linear models (Ridge, Lasso, ElasticNet), kernel methods, XGBoost, LightGBM, and stacking/blending approaches, the **best performance came from a single, well-tuned CatBoost model** with careful feature engineering and robust cross-validation.
 
